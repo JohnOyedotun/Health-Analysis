@@ -15,4 +15,8 @@ Analyze:
 
 1. Insights extracted revealed 675 million of Covid-19 cases worldwide.
 
-2. Based on the country Brazil recorded total case of 37 million,Nigeria 266 thousands cases,Germany 38 million cases,Spain 14 million cases of covid-19
+2. Based on the country Brazil recorded total case of 37 million,Nigeria 266 thousands cases,Germany 38 million cases,Spain 14 million cases of covid-19.
+
+3. USA recorded the highest death case of 1.13 million people as a result of covid-19 with active cases of 1,741,147 people.
+
+    
